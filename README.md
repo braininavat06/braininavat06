@@ -1,4 +1,4 @@
-<a href="https://www.medimory.com" style="color:black">메디모리</a>
+<div href="https://www.medimory.com">메디모리</a>
 
 
 
